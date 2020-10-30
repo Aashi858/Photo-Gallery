@@ -1,0 +1,27 @@
+body {
+    text-align: center
+}
+
+#family {
+    height: 500px;
+}
+
+.image {
+    height: 160px;
+    width: 190px;
+    margin: 20px;
+    border-style: solid;
+    border-width: thick;
+    border-color: deepskyblue;
+    padding: 10px;
+}
+
+#myCarousel{
+    height: 400px;
+    width: 100%;
+    background-color: darkorchid;
+    margin-bottom: 100px;
+}
+.s{
+    width: 500px;
+}
